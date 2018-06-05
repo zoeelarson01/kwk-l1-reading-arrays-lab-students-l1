@@ -39,7 +39,7 @@ def first_second_and_third_students
   student_names = ["Adele", "Beyoncé", "Cardi B", "Lady Gaga", "Nicki Minaj", "Rihanna"]
   loop do
     student_names = 0
-    until student_names == 3, break
+    until student_names == 3 break
     puts student_names
     student_names += 1 
   end
