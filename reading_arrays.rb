@@ -43,6 +43,3 @@ def first_second_and_third_students
 end
 
 first_second_and_third_students
-
-
-end
