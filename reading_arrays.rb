@@ -37,7 +37,7 @@ last_student_by_method
 
 def first_second_and_third_students
   student_names = ["Adele", "Beyoncé", "Cardi B", "Lady Gaga", "Nicki Minaj", "Rihanna"]
-  puts student_names.first.second.third
+  puts student_names.first
 end
 
 first_second_and_third_students
