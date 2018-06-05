@@ -37,13 +37,9 @@ last_student_by_method
 
 def first_second_and_third_students
   student_names = ["Adele", "Beyoncé", "Cardi B", "Lady Gaga", "Nicki Minaj", "Rihanna"]
-  loop do
-    student_names = 0
-    until student_names == 3
-    puts student_names
-    student_names += 1 
-    break
-  end
+  puts student_names.first
+  puts student_names[1]
+  puts student_names.[2]
 end
 
 first_second_and_third_students
