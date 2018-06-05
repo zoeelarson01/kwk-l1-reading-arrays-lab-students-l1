@@ -40,7 +40,7 @@ def first_second_and_third_students
   loop do
     student_names = 0
   puts student_names
-    until student_names =3
+    until student_names == 3
   end
 end
 
